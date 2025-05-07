@@ -5,4 +5,5 @@ def main():
     print(f"The value of {x} + {y} = {z}")
 
 if __name__ == "__main__":
+    print("Welcome to our calculator: \n")
     main()
