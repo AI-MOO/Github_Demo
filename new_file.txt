@@ -1,9 +1,5 @@
 Hello World !!! 
-<<<<<<< HEAD
-
 
 ### added by develop 2 ##@#@
 123
-=======
-123
->>>>>>> 8f84a49 (new update from master)
+
